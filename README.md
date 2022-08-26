@@ -1,6 +1,8 @@
 # Getting Started with Create React App
 See a live version [here](https://air-clone-15a4b.web.app/) 
 
+Or view an image of the site below 👇 
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
