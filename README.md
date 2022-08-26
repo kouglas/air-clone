@@ -1,5 +1,5 @@
 # Getting Started with Create React App
-*live url link: https://air-clone-15a4b.web.app/
+See a live version[here](https://air-clone-15a4b.web.app/) 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
@@ -69,3 +69,7 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+
+<img width="1440" alt="Screen Shot 2022-08-26 at 10 49 24 AM" src="https://user-images.githubusercontent.com/25935404/186944157-d6b4c953-c4f2-4c90-b991-8788ed2bbf58.png">
+
